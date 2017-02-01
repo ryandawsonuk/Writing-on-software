@@ -1,10 +1,10 @@
 # Software Writing
 
-This is a record of pieces I've written on software with an industry focus. My academic publications (which are mainly philosophical) can be found on my [http://eastanglia.academia.edu/RyanDawson](academia.edu page).
+This is a record of pieces I've written on software with an industry focus. My academic publications (which are mainly philosophical) can be found on my (http://eastanglia.academia.edu/RyanDawson)[academia.edu page].
 
 ## Why Making Software Is So Difficult
 
-This was published in [http://dl.acm.org/citation.cfm?id=2632442](Software Engineering Notes) and under their arrangement I can also publish it [Why Making Software is so Difficult.pdf](here). The aim of the piece is provide a better metaphor that can act as an antidote to the weaknesses of the construction/engineering metaphor that both tends to dominate and which is also often criticised.
+This was published in (http://dl.acm.org/citation.cfm?id=2632442)[Software Engineering Notes] and under their arrangement I can also publish it (Why Making Software is so Difficult.pdf)[here]. The aim of the piece is provide a better metaphor that can act as an antidote to the weaknesses of the construction/engineering metaphor that both tends to dominate and which is also often criticised.
 
 ## Review of Sandro Mancuso's book The Software Craftsman: Professionalism, Pragmatism, Pride
 
